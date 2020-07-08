@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, Rust with CLion");
+    println!("Hello, Rust with CLion with a slight change");
 }
